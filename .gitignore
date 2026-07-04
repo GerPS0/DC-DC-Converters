@@ -1,0 +1,13 @@
+#The following files will be ignore during commits.
+
+#Temporally files
+*.temp
+*.tmp
+
+# Log files
+*.log
+
+# cache files & folders
+.cache/
+*.cache
+
